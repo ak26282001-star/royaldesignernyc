@@ -17,7 +17,7 @@ The map in the Visit section is a placeholder drawing captioned "demo map". Repl
 - The four collection cards show line illustrations. For product photos, put an `<img>` inside each `.piece__photo` in place of the `<svg>`, with `width`/`height` attributes and `loading="lazy"`.
 
 ### 4. Branding, domain and SEO
-- `assets/img/og-image.jpg` is left over from a previous site and is not referenced. Replace it before adding Open Graph tags.
+- There is no Open Graph image yet. Add a 1200×630 one before adding Open Graph tags.
 - Add `<link rel="canonical">`, Open Graph tags and `JewelryStore` JSON-LD once the domain is known.
 - Uncomment the `Sitemap:` line in `robots.txt` and add a `sitemap.xml`.
 
